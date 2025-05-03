@@ -1,5 +1,3 @@
-@AWAY
-title Game Boost by AWAY
 color 0a
 
 echo ================================================
