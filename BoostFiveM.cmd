@@ -1,5 +1,3 @@
-@AWAY
-title FiveM Boost by AWAY
 color 0A
 
 echo ---------------------------
